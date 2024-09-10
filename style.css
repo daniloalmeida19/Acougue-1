@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+head {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    text-decoration: solid;    
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+
